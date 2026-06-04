@@ -12,420 +12,10 @@
 		<display-name>Deal or No Deal</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
 	</channel>
-	<programme channel="558278" start="20260603155848 +0000" stop="20260603164914 +0000">
-		<title>MasterChef New Zealand Season 05 - Duke Of Marlborough Hotel</title>
-		<desc>The Bottom 6 duos cook dinner for the Top 6 duos and 185 other guests at The Duke Of Marlborough Hotel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481183'&amp;EntityType='LinearSchedule'&amp;EntityId='34ed3e3c-8081-425e-ab90-357d0a7fd456'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603164914 +0000" stop="20260603174059 +0000">
-		<title>MasterChef New Zealand Season 05 - Daniel Wilson / Kiwi Style Bouillabaisse</title>
-		<desc>The Top 11 duos cook a Kiwi spin on a classic French fish stew for guest chef Daniel Wilson.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481199'&amp;EntityType='LinearSchedule'&amp;EntityId='20314e0c-5c2a-493e-bb19-e7b93a0bff9c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603174059 +0000" stop="20260603183217 +0000">
-		<title>MasterChef New Zealand Season 05 - 1 Fish, 2 Dish</title>
-		<desc>The Top1 0 duos each prepare and cook two dishes from a whole fish.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481203'&amp;EntityType='LinearSchedule'&amp;EntityId='0d35f8fc-8aaf-471e-a194-0828523e6d59'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603183217 +0000" stop="20260603192346 +0000">
-		<title>MasterChef New Zealand Season 05 - FISH</title>
-		<desc>Masterchef judges Josh Emett and Ray McVinnie cook two simple but elegant fish dishes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481195'&amp;EntityType='LinearSchedule'&amp;EntityId='967879ea-7d70-4119-b41e-242ad50e664b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603192346 +0000" stop="20260603201345 +0000">
-		<title>MasterChef New Zealand Season 05 - Avondale Market Team Challenge</title>
-		<desc>The Top 9 duos split into three teams to cook and sell fast food dishes at the famous Avondale market.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481215'&amp;EntityType='LinearSchedule'&amp;EntityId='42a6ffcf-ee7e-495b-9e1c-1d9799ed5c48'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603201345 +0000" stop="20260603210548 +0000">
-		<title>MasterChef New Zealand Season 05 - Classic Kiwi Dishes with a Twist</title>
-		<desc>The Top 9 duos present their versions of a classic New Zealand main and pavlova.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481219'&amp;EntityType='LinearSchedule'&amp;EntityId='fb479469-9908-48eb-96eb-2c081e4be583'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603210548 +0000" stop="20260603215725 +0000">
-		<title>MasterChef New Zealand Season 05 - Roast Lamb</title>
-		<desc>Masterchef judges Josh Emett and Ray McVinnie cook their versions of the classic lamb roast.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481223'&amp;EntityType='LinearSchedule'&amp;EntityId='fb6947c9-f377-44e0-ad72-be358e9a1ac9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603215725 +0000" stop="20260603224829 +0000">
-		<title>MasterChef New Zealand Season 05 - Team Degustation Part 1</title>
-		<desc>The Top 8 duos split into two teams to prepare an eight-course degustation meal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481191'&amp;EntityType='LinearSchedule'&amp;EntityId='4efbdcad-1156-4707-9199-2afd931193c7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603224829 +0000" stop="20260603234243 +0000">
-		<title>MasterChef New Zealand Season 05 - Team Degustation Part 2</title>
-		<desc>The Top 8 duos complete their eight-course degustation challenge.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481207'&amp;EntityType='LinearSchedule'&amp;EntityId='f15d9bd3-ccff-4b60-9be3-04c80e2e72d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260603234243 +0000" stop="20260604003444 +0000">
-		<title>MasterChef New Zealand Season 05 - Josh &amp; Simon / Degustation</title>
-		<desc>MasterChef judges Simon Gault and Josh Emett cook two degustation-style dishes .</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499712'&amp;EntityType='LinearSchedule'&amp;EntityId='a464321b-ed9e-420a-888b-28f8885122ed'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604003444 +0000" stop="20260604012656 +0000">
-		<title>MasterChef New Zealand Season 05 - Rabbit &amp; Pasta</title>
-		<desc>The Top 7 duos cook rabbit dishes for guest chef Ben Bayley.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499732'&amp;EntityType='LinearSchedule'&amp;EntityId='fe48e352-adc4-4181-bcf7-8e9d92fc35c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604012656 +0000" stop="20260604021718 +0000">
-		<title>MasterChef New Zealand Season 05 - Spaghetti &amp; Meatballs</title>
-		<desc>The bottom five duos face a cook-off for just four remaining places in the Top Six.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499756'&amp;EntityType='LinearSchedule'&amp;EntityId='58ebf0d3-82f6-469a-8e40-cbfc18184dcb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604021718 +0000" stop="20260604030555 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #04 Josh &amp; Ray / Pasta</title>
-		<desc>MasterChef judges Josh Emett and Ray McVinnie cook dishes using fresh pasta.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499776'&amp;EntityType='LinearSchedule'&amp;EntityId='22238066-47d1-4751-a23a-1b367191f647'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604030555 +0000" stop="20260604035554 +0000">
-		<title>MasterChef New Zealand Season 05 - George Calombaris</title>
-		<desc>The Top Six duos cook veal three ways for Australian culinary legend George Calombaris.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499760'&amp;EntityType='LinearSchedule'&amp;EntityId='a491a540-3b82-4422-9632-2b4b3e19f996'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604035554 +0000" stop="20260604044600 +0000">
-		<title>MasterChef New Zealand Season 05 - Burger Cook-off</title>
-		<desc>The Top Six duos compete in a burger cook-off for some great prizes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499780'&amp;EntityType='LinearSchedule'&amp;EntityId='65976786-d599-443d-a6bd-c8b813648b65'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604044600 +0000" stop="20260604053555 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #05 Josh &amp; Simon / Veal &amp; Venison</title>
-		<desc>MasterChef judges Josh Emett and Simon Gault cook dishes featuring veal and venison.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499764'&amp;EntityType='LinearSchedule'&amp;EntityId='e938af8c-faf6-4149-8216-a2c9eedba105'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604053555 +0000" stop="20260604062955 +0000">
-		<title>MasterChef New Zealand Season 05 - Samoa / Marinated fish</title>
-		<desc>The Top Six duos make raw fish salad on the beach at Return To Paradise resort in Samoa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499768'&amp;EntityType='LinearSchedule'&amp;EntityId='333374f9-342b-4582-b799-71cbc9e69dad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604062955 +0000" stop="20260604072024 +0000">
-		<title>MasterChef New Zealand Season 05 - Samoa / Cooking on Fire</title>
-		<desc>The Top Six duos cook on open fires on the beach at Return To Paradise resort in Samoa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499784'&amp;EntityType='LinearSchedule'&amp;EntityId='8e2139d6-f288-4d45-9a2c-863fcc6f24f6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604072024 +0000" stop="20260604080936 +0000">
-		<title>MasterChef New Zealand Season 05 - Josh &amp; Simon / Samoa</title>
-		<desc>MasterChef judges Josh Emett and Simon Gault hold a MasterClass in Samoa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499728'&amp;EntityType='LinearSchedule'&amp;EntityId='cdc94a82-3a38-4f03-b5da-6d152a420bc3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604080936 +0000" stop="20260604085943 +0000">
-		<title>MasterChef New Zealand Season 05 - Mystery Box Risotto</title>
-		<desc>One contestant from each of the Top Five duos faces a solo risotto challenge without their partner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499748'&amp;EntityType='LinearSchedule'&amp;EntityId='baaf1c1b-6078-45db-bfd2-a7852af0c3e9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604085943 +0000" stop="20260604094950 +0000">
-		<title>MasterChef New Zealand Season 05 - Mystery Box Dessert</title>
-		<desc>The second contestant from each of the Top Five duos faces a solo dessert challenge without their partner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499736'&amp;EntityType='LinearSchedule'&amp;EntityId='3ac3620c-0641-4e4b-bee7-167dfe594bba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604094950 +0000" stop="20260604104151 +0000">
-		<title>MasterChef New Zealand Season 05 - Bali / Club Med</title>
-		<desc>The Top Four duos tackle an Asian cuisine challenge at Club Med in Bali.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499740'&amp;EntityType='LinearSchedule'&amp;EntityId='154f1876-5677-4e38-9d5d-09812ed8b87f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604104151 +0000" stop="20260604113530 +0000">
-		<title>MasterChef New Zealand Season 05 - Bali / Bumbu Bali</title>
-		<desc>The Top Four duos cook Indonesian cuisine at Bumbu Bali Cooking School.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499752'&amp;EntityType='LinearSchedule'&amp;EntityId='8b1a6d40-2d93-4531-9039-dee869c3244c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604113530 +0000" stop="20260604122353 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #08 Josh &amp; Simon / Bali</title>
-		<desc>MasterChef judges Josh Emett and Simon Gault cook with local ingredients in Bali.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499788'&amp;EntityType='LinearSchedule'&amp;EntityId='8360fc61-62bf-4ca9-b10b-4a5c1169859d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604122353 +0000" stop="20260604131329 +0000">
-		<title>MasterChef New Zealand Season 05 - Cookbook</title>
-		<desc>The Top Three duos create two dishes they’d like to include in their first cookbooks.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499720'&amp;EntityType='LinearSchedule'&amp;EntityId='43dcc9e0-bf52-4389-845c-5e08437c5187'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604131329 +0000" stop="20260604140434 +0000">
-		<title>MasterChef New Zealand Season 05 - Restaurant</title>
-		<desc>The Top Three duos create two dishes they’d like to serve in their own restaurants.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499724'&amp;EntityType='LinearSchedule'&amp;EntityId='f9b06aaa-12eb-496f-a6bb-e12edc05a3d1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604140434 +0000" stop="20260604145326 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #09 Simon &amp; Ray / Cookbook dishes</title>
-		<desc>MasterChef judges Simon Gault and Ray McVinnie cook dishes from their cookbooks.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499772'&amp;EntityType='LinearSchedule'&amp;EntityId='f7967231-3882-4581-a7aa-582bfa8dfb74'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260604145326 +0000" stop="20260604154228 +0000">
-		<title>MasterChef New Zealand Season 05 - Peter Gordon</title>
-		<desc>The Top Three duos replicate a paddle crab linguine dish by world-renowned Kiwi chef Peter Gordon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499744'&amp;EntityType='LinearSchedule'&amp;EntityId='0c4c3bbd-129a-47db-9798-55025ce4bfe6'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="558278" start="20260604154228 +0000" stop="20260604163425 +0000">
 		<title>MasterChef New Zealand Season 05 - Michel Louws</title>
 		<desc>The Top Three duos make two intricate beef dishes by Michelin star-winning chef Michel Louws.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14499716'&amp;EntityType='LinearSchedule'&amp;EntityId='edc3e138-b442-41da-b553-ed0bf0f352e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603152750 +0000" stop="20260603161954 +0000">
-		<title>Fear Factor USA - EP6</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481053'&amp;EntityType='LinearSchedule'&amp;EntityId='10b269ee-f62d-4684-8e5d-d175aaf32624'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603161954 +0000" stop="20260603180327 +0000">
-		<title>Fear Factor USA - EP7</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481118'&amp;EntityType='LinearSchedule'&amp;EntityId='4b2a5b72-5ec1-49f4-b2b3-4416dcb54567'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603180327 +0000" stop="20260603185532 +0000">
-		<title>Fear Factor USA - EP8</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481131'&amp;EntityType='LinearSchedule'&amp;EntityId='3e6eadbb-fff2-4c5b-b99f-07047f58b1bb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603185532 +0000" stop="20260603194735 +0000">
-		<title>Fear Factor USA - EP9</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481156'&amp;EntityType='LinearSchedule'&amp;EntityId='1352b528-d45d-4210-8d38-f6171c63c9d1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603194735 +0000" stop="20260603204127 +0000">
-		<title>Fear Factor USA - EP9</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481110'&amp;EntityType='LinearSchedule'&amp;EntityId='0e3d6e04-5385-4e55-b687-2624c6529a5d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603204127 +0000" stop="20260603220136 +0000">
-		<title>Fear Factor USA - EP10</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481149'&amp;EntityType='LinearSchedule'&amp;EntityId='a282b87c-2388-4e6d-9ba8-458a359e39ab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603220136 +0000" stop="20260603231854 +0000">
-		<title>Fear Factor USA - EP11</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14481125'&amp;EntityType='LinearSchedule'&amp;EntityId='b9a63029-99d6-4583-849e-7f9d51242ef8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260603231854 +0000" stop="20260604001247 +0000">
-		<title>Fear Factor USA - EP12</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501379'&amp;EntityType='LinearSchedule'&amp;EntityId='4c522013-1708-4180-8f71-ac5aa44a2b3f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604001247 +0000" stop="20260604010640 +0000">
-		<title>Fear Factor USA - EP13</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501403'&amp;EntityType='LinearSchedule'&amp;EntityId='9d9c91a2-d11a-493f-8b31-88bb26290362'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604010640 +0000" stop="20260604020035 +0000">
-		<title>Fear Factor USA - EP14</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501383'&amp;EntityType='LinearSchedule'&amp;EntityId='43c5fb2b-7d66-472c-8007-479639ee4b1e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604020035 +0000" stop="20260604025429 +0000">
-		<title>Fear Factor USA - EP15</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501439'&amp;EntityType='LinearSchedule'&amp;EntityId='dff706ea-c694-4fec-98cb-dda3515b77bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604025429 +0000" stop="20260604034819 +0000">
-		<title>Fear Factor USA - EP16</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501443'&amp;EntityType='LinearSchedule'&amp;EntityId='4d4da326-8e8e-4f71-abf0-4e29da326380'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604034819 +0000" stop="20260604044211 +0000">
-		<title>Fear Factor USA - EP17</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501387'&amp;EntityType='LinearSchedule'&amp;EntityId='144d8f8a-486d-47df-b684-1fee44ba11f7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604044211 +0000" stop="20260604053604 +0000">
-		<title>Fear Factor USA - EP18</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501447'&amp;EntityType='LinearSchedule'&amp;EntityId='125f70d9-0b8a-4826-8c7d-e0a1e86cb7be'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604053604 +0000" stop="20260604062959 +0000">
-		<title>Fear Factor USA - EP19</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501391'&amp;EntityType='LinearSchedule'&amp;EntityId='a909fa41-9832-4b42-8768-542a19bb9218'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604062959 +0000" stop="20260604072417 +0000">
-		<title>Fear Factor USA - EP14</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501451'&amp;EntityType='LinearSchedule'&amp;EntityId='0077209e-6c73-4177-affb-82c0a66d2740'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604072417 +0000" stop="20260604081832 +0000">
-		<title>Fear Factor USA - EP15</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501395'&amp;EntityType='LinearSchedule'&amp;EntityId='72a0cb08-0674-4aa3-89dc-1a32e6fcfab6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604081832 +0000" stop="20260604091246 +0000">
-		<title>Fear Factor USA - EP16</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501427'&amp;EntityType='LinearSchedule'&amp;EntityId='6006ecb1-ec75-4675-af6f-fa6737479db1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604091246 +0000" stop="20260604100702 +0000">
-		<title>Fear Factor USA - EP17</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501431'&amp;EntityType='LinearSchedule'&amp;EntityId='02393726-6602-4231-8649-bea35329292b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604100702 +0000" stop="20260604110114 +0000">
-		<title>Fear Factor USA - EP18</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501407'&amp;EntityType='LinearSchedule'&amp;EntityId='8a68ba4b-1ca6-4799-9a8c-49ef7b44db56'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604110114 +0000" stop="20260604115427 +0000">
-		<title>Fear Factor USA - EP19</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501435'&amp;EntityType='LinearSchedule'&amp;EntityId='2eb21bf4-4ab4-41cb-b471-072bf4a85e74'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604115427 +0000" stop="20260604124832 +0000">
-		<title>Fear Factor USA - EP20</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501411'&amp;EntityType='LinearSchedule'&amp;EntityId='0d8744cf-bf29-420f-be4f-3dd1675b9650'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604124832 +0000" stop="20260604134226 +0000">
-		<title>Fear Factor USA - EP12</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501415'&amp;EntityType='LinearSchedule'&amp;EntityId='32e5878f-3e09-48dd-921e-8ee6a29beadd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604134226 +0000" stop="20260604143618 +0000">
-		<title>Fear Factor USA - EP13</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501419'&amp;EntityType='LinearSchedule'&amp;EntityId='cf090a31-d214-4707-ae01-36d30fb30633'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604143618 +0000" stop="20260604155401 +0000">
-		<title>Fear Factor USA - EP10</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501399'&amp;EntityType='LinearSchedule'&amp;EntityId='a6743ca7-bb60-4826-a212-cb1b028b2d1c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260604155401 +0000" stop="20260604165652 +0000">
-		<title>Fear Factor USA - EP11</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501423'&amp;EntityType='LinearSchedule'&amp;EntityId='7d1e2cb5-f920-4265-9095-23b70ca445d6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603152629 +0000" stop="20260603161533 +0000">
-		<title>Deal Or No Deal USA - Cowboy Up</title>
-		<desc>Real life Las Vegas hero, Justin Uhart storms the stage ready to risk it all for his chance at $1 million.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461857'&amp;EntityType='LinearSchedule'&amp;EntityId='93d92eed-1bbb-4b87-9a11-0541890cf70a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603161533 +0000" stop="20260603170526 +0000">
-		<title>Deal Or No Deal USA - Cheering For A Lucky Strike</title>
-		<desc>Cheerleader Tex Iniguez shakes her pom poms past six figures in hopes of beating The Banker.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461913'&amp;EntityType='LinearSchedule'&amp;EntityId='374eb715-6beb-40df-917d-abf821bbf797'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603170526 +0000" stop="20260603175223 +0000">
-		<title>Deal Or No Deal USA - Million Dollar Lane</title>
-		<desc>Double the deals, double the drama - bowling champion Kyera presses on in her battle against The Banker.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461865'&amp;EntityType='LinearSchedule'&amp;EntityId='e1dbcbe0-54b6-4e9d-ab06-80ad8fe3b741'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603175223 +0000" stop="20260603184440 +0000">
-		<title>Deal Or No Deal USA - Mile-High Millionaire</title>
-		<desc>Flight attendant, Max Reynolds is used to high-flying adventures.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461885'&amp;EntityType='LinearSchedule'&amp;EntityId='7e7eb874-189b-4ec8-872d-4d6f4cd5f727'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603184440 +0000" stop="20260603193306 +0000">
-		<title>Deal Or No Deal USA - Bingo To A Million</title>
-		<desc>Playing for his Golden Girls-style dream home, former Bingo caller Tony Oriente.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461889'&amp;EntityType='LinearSchedule'&amp;EntityId='0b092cfb-d694-4555-b444-947fb99cd5c9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603193306 +0000" stop="20260603202240 +0000">
-		<title>Deal Or No Deal USA - Million Dollar Musical</title>
-		<desc>Business owner, La’Sherrie Butler Hogan showstops the stage, and the game.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461869'&amp;EntityType='LinearSchedule'&amp;EntityId='1e639492-6036-4eb4-9ab0-16309a73e423'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603202240 +0000" stop="20260603211213 +0000">
-		<title>Deal Or No Deal USA - Million Dollar Ironman</title>
-		<desc>Miami police officer and Ironman competitor Jorge Montero seeks to secure his children's future.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461917'&amp;EntityType='LinearSchedule'&amp;EntityId='15f57a89-5de4-4075-854d-80bf8eaa8c05'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603211213 +0000" stop="20260603220211 +0000">
-		<title>Deal Or No Deal USA - Monopoly Money</title>
-		<desc>Real estate agent, Toni Miller is used to buying and selling hot properties.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461873'&amp;EntityType='LinearSchedule'&amp;EntityId='3cc45568-e2ca-4dd5-81e5-cbab43abfde2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603220211 +0000" stop="20260603224938 +0000">
-		<title>Deal Or No Deal USA - The Champ Vs. The Banker</title>
-		<desc>Michael Chandler is used to taking some hits and putting up a good fight – and tonight is no different.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461921'&amp;EntityType='LinearSchedule'&amp;EntityId='9f684cef-8f2e-484d-8370-d5faa5b1f194'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603224938 +0000" stop="20260603233904 +0000">
-		<title>Deal Or No Deal USA - Hoop Dreams</title>
-		<desc>Single mother and marathoner Monica Durazo comes from a sales background and a family of competitors.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461925'&amp;EntityType='LinearSchedule'&amp;EntityId='1d77cab4-778b-443b-bc87-238a5125fa18'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260603233904 +0000" stop="20260604011001 +0000">
-		<title>Deal Or No Deal USA Season 01 (Syndicated Version) - EP39</title>
-		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461901'&amp;EntityType='LinearSchedule'&amp;EntityId='ce6f16b4-544e-4c76-92c6-3817c56963e3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604011001 +0000" stop="20260604031055 +0000">
-		<title>Deal Or No Deal USA Season 01 (Syndicated Version) - EP32</title>
-		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461929'&amp;EntityType='LinearSchedule'&amp;EntityId='1269d230-247a-4113-bdf9-2d45e92d5ec1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604031055 +0000" stop="20260604040108 +0000">
-		<title>Deal Or No Deal USA - EP4</title>
-		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461909'&amp;EntityType='LinearSchedule'&amp;EntityId='1325e3b3-7b3b-4a9d-a566-250b12ce2a58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604040108 +0000" stop="20260604044921 +0000">
-		<title>Deal Or No Deal USA - EP5</title>
-		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461877'&amp;EntityType='LinearSchedule'&amp;EntityId='2ae09fa1-a5ec-42c9-bf1c-348990539bda'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604044921 +0000" stop="20260604053634 +0000">
-		<title>Deal Or No Deal USA - Wall Street Warrior</title>
-		<desc>Lisa Glicksman knows exactly what kind of fight is needed to beat The Banker.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461893'&amp;EntityType='LinearSchedule'&amp;EntityId='18d57d64-d517-48ad-aafe-b9c54676a730'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604053634 +0000" stop="20260604062601 +0000">
-		<title>Deal Or No Deal USA - Magic Touch</title>
-		<desc>In another incredible combo game of Deal or No Deal, two new contestants fill the studio with magical moments.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461905'&amp;EntityType='LinearSchedule'&amp;EntityId='f13a5a49-1a96-4011-a5df-694939726726'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604062601 +0000" stop="20260604070117 +0000">
-		<title>Deal Or No Deal USA - Roller Coaster In Motion</title>
-		<desc>Deal or No Deal comes to life with two Orlando contestants taking over.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14461881'&amp;EntityType='LinearSchedule'&amp;EntityId='32b739f0-2ca0-4e04-a943-811cbaf495de'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604070117 +0000" stop="20260604074918 +0000">
-		<title>Deal Or No Deal USA - Looking For Luck (In All The Right Cases)</title>
-		<desc>Nurse Andrew Shelton declares himself the unluckiest person ever to combat The Banker.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480347'&amp;EntityType='LinearSchedule'&amp;EntityId='b3fe4309-6a81-4145-9d12-2ef8bb7b6175'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604074918 +0000" stop="20260604083720 +0000">
-		<title>Deal Or No Deal USA - EP2</title>
-		<desc>A mom-to-be tries to find one of five million-dollar cases, and surprises her husband.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480351'&amp;EntityType='LinearSchedule'&amp;EntityId='1efc2316-b518-41ee-aee4-e6aabc51c62f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604083720 +0000" stop="20260604092522 +0000">
-		<title>Deal Or No Deal USA - EP3</title>
-		<desc>NASCAR's Jimmie Johnson drops by to meet a player from Rhode Island.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480355'&amp;EntityType='LinearSchedule'&amp;EntityId='f84cfc67-ed29-4fba-afdd-cce6b705cd13'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604092522 +0000" stop="20260604101303 +0000">
-		<title>Deal Or No Deal USA - EP4</title>
-		<desc>The Banker offers a Detroit video-game fan the chance to become a game character.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480383'&amp;EntityType='LinearSchedule'&amp;EntityId='572b514a-d7a6-4c95-980f-6db55420602d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604101303 +0000" stop="20260604110144 +0000">
-		<title>Deal Or No Deal USA - EP5</title>
-		<desc>A pharmacy technician competes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480375'&amp;EntityType='LinearSchedule'&amp;EntityId='bc29275c-c7c6-421a-afe2-7b0aa38c8753'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604110144 +0000" stop="20260604115040 +0000">
-		<title>Deal Or No Deal USA - EP6</title>
-		<desc>A newly married woman from Kansas City, Kan., plays a game with six $1 million cases.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480387'&amp;EntityType='LinearSchedule'&amp;EntityId='b57a0d3d-0284-4c82-b5f4-ba7c626e4172'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604115040 +0000" stop="20260604123903 +0000">
-		<title>Deal Or No Deal USA - EP7</title>
-		<desc>Seven $1 million cases are in the mix for a male nurse from Pennsylvania.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480379'&amp;EntityType='LinearSchedule'&amp;EntityId='13ed05a5-61b2-44ff-adbc-8ee97137fcbd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604123903 +0000" stop="20260604132546 +0000">
-		<title>Deal Or No Deal USA - EP8</title>
-		<desc>Eight $1 million cases are added to a Minnesota woman's game.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480359'&amp;EntityType='LinearSchedule'&amp;EntityId='f2c620fa-7253-4b53-aaaf-135a52f40d23'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604132546 +0000" stop="20260604143319 +0000">
-		<title>Deal Or No Deal USA - EP9</title>
-		<desc>Nine $1 million cases are on the line for a New Jersey woman's game.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480371'&amp;EntityType='LinearSchedule'&amp;EntityId='07f0dc19-8403-44f0-81bd-e1ac104cd5a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604143319 +0000" stop="20260604152158 +0000">
-		<title>Deal Or No Deal USA - EP10</title>
-		<desc>A hot-dog merchant from Nevada and a teacher from Pennsylvania compete for the top prize.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480363'&amp;EntityType='LinearSchedule'&amp;EntityId='a54a13f7-ceb5-4929-bbd2-b019bea7aeb5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="570813" start="20260604152158 +0000" stop="20260604160836 +0000">
-		<title>Deal Or No Deal USA - EP11</title>
-		<desc>A teacher from Pennsylvania returns to finish her game.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480367'&amp;EntityType='LinearSchedule'&amp;EntityId='66626fe3-6eea-4ddb-aed9-1ae052a880e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260604163425 +0000" stop="20260604172311 +0000">
 		<title>MasterChef New Zealand Season 05 - Simon &amp; Ray / Favourites</title>
@@ -552,6 +142,11 @@
 		<desc>Two teams have two hours to cook for 20 cowhands on an open campfire.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516876'&amp;EntityType='LinearSchedule'&amp;EntityId='6c328f09-884f-4f71-ba75-29b319cc3654'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558258" start="20260604155401 +0000" stop="20260604165652 +0000">
+		<title>Fear Factor USA - EP11</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501423'&amp;EntityType='LinearSchedule'&amp;EntityId='7d1e2cb5-f920-4265-9095-23b70ca445d6'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="558258" start="20260604165652 +0000" stop="20260604174854 +0000">
 		<title>Fear Factor USA - EP12</title>
 		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
@@ -671,6 +266,11 @@
 		<title>Fear Factor USA - EP15</title>
 		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501487'&amp;EntityType='LinearSchedule'&amp;EntityId='f4be8088-aea2-418e-b21c-b1c7af7d8d89'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260604152158 +0000" stop="20260604160836 +0000">
+		<title>Deal Or No Deal USA - EP11</title>
+		<desc>A teacher from Pennsylvania returns to finish her game.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14480367'&amp;EntityType='LinearSchedule'&amp;EntityId='66626fe3-6eea-4ddb-aed9-1ae052a880e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260604160836 +0000" stop="20260604165644 +0000">
 		<title>Deal Or No Deal USA - EP12</title>
@@ -806,5 +406,395 @@
 		<title>Deal Or No Deal USA - EP14</title>
 		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501607'&amp;EntityType='LinearSchedule'&amp;EntityId='ab316d54-f311-437b-93c7-9df2948eda5b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605160339 +0000" stop="20260605165335 +0000">
+		<title>MasterChef Australia Season 05 - Elimination Challenge 5</title>
+		<desc>The 3 worst performing members of the previous team challenge face a service challenge feeding 80 people.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516912'&amp;EntityType='LinearSchedule'&amp;EntityId='f18214d8-9be6-4a8b-9114-bff394155da8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605165335 +0000" stop="20260605174656 +0000">
+		<title>MasterChef Australia Season 05 - MasterClass 5</title>
+		<desc>In tonight's seaside MasterClass, Brendan Pratt cooks slow roasted lamb shoulder with croquettes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516916'&amp;EntityType='LinearSchedule'&amp;EntityId='16621a4a-938e-4baa-bc75-ffe418268617'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605174656 +0000" stop="20260605183833 +0000">
+		<title>MasterChef Australia Season 05 - Heaven &amp; Hell Mystery Box Challenge</title>
+		<desc>The fourteen contestants face a tough choice in this Mystery Box Challenge with a twist.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516900'&amp;EntityType='LinearSchedule'&amp;EntityId='930ff48b-0fb9-472d-9784-9cd233fff985'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605183833 +0000" stop="20260605193434 +0000">
+		<title>MasterChef Australia Season 05 - Elimination Challenge 6</title>
+		<desc>Daniel, Kelty, Pip and Lucy faced a two-round Elimination Challenge set by chef Ian Curley.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516892'&amp;EntityType='LinearSchedule'&amp;EntityId='2e50bdf2-5511-4093-ab6c-9fad526935dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605193434 +0000" stop="20260605203051 +0000">
+		<title>MasterChef Australia Season 05 - Seven Deadly Sins Challenge</title>
+		<desc>The remaining 13 contestants faced a seven-course service challenge based around the seven deadly sins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516896'&amp;EntityType='LinearSchedule'&amp;EntityId='afab8df3-225c-4217-87db-02abd457f1be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605203051 +0000" stop="20260605212339 +0000">
+		<title>MasterChef Australia Season 05 - Last Supper Elimination Challenge</title>
+		<desc>The 7 losing contestants from the previous challenge are given two hours to produce a dish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516904'&amp;EntityType='LinearSchedule'&amp;EntityId='02642c6d-960e-46d2-921c-2b4117c22999'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605212339 +0000" stop="20260605221459 +0000">
+		<title>MasterChef Australia Season 05 - MasterClass 6</title>
+		<desc>Heaven and Hell week draws to a close with a special Master Class from Paul Wilson.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516920'&amp;EntityType='LinearSchedule'&amp;EntityId='ac54684d-53a1-41e9-bf88-8a7c11c01f9a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605221459 +0000" stop="20260605230745 +0000">
+		<title>MasterChef Australia Season 05 - Fast Food Mystery Box Challenge</title>
+		<desc>In this Mystery Box Challenge, teams of contestants are tasked with re-inventing fast food favourites.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516924'&amp;EntityType='LinearSchedule'&amp;EntityId='d0314b23-9b82-4ea5-a050-24b0249e7de4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605230745 +0000" stop="20260605235659 +0000">
+		<title>MasterChef Australia Season 05 - Elimination Challenge 8</title>
+		<desc>In an Elimination Challenge with a twist, Rishi, Jules and Samira face the first ever ingredients auction.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532191'&amp;EntityType='LinearSchedule'&amp;EntityId='4ffa3055-cf32-4140-9b23-6baed06b6850'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260605235659 +0000" stop="20260606005042 +0000">
+		<title>MasterChef Australia Season 05 - Offsite Challenge 3: Meals on Wheels</title>
+		<desc>In a Car Rally Team Challenge, teams were tasked with creating the perfect Club Sandwiches with Chips.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532243'&amp;EntityType='LinearSchedule'&amp;EntityId='2184db7e-b1af-42b8-a7d2-a5e71b09f23c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606005042 +0000" stop="20260606014057 +0000">
+		<title>MasterChef Australia Season 05 - EP33</title>
+		<desc>5 members of the Red Team face a Pressure Test set by Daniel Wilson of restaurant Huxtable.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532247'&amp;EntityType='LinearSchedule'&amp;EntityId='c92b1ca8-2e00-44f6-9668-6752f873b2d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606014057 +0000" stop="20260606023554 +0000">
+		<title>MasterChef Australia Season 05 - MasterClass 7 - Cookalong with Curtis Stone</title>
+		<desc>Gary makes chicken curry, George tackles the club sandwich, and Curtis Stone does a salmon cookalong.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532235'&amp;EntityType='LinearSchedule'&amp;EntityId='d25c8be4-5718-4120-bb34-3ec64def83cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606023554 +0000" stop="20260606033044 +0000">
+		<title>MasterChef Australia Season 05 - Second Chance Challenge 1</title>
+		<desc>The Top 10 are safe from elimination for the week and an immunity pin is up for grabs.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532231'&amp;EntityType='LinearSchedule'&amp;EntityId='93461aaf-2dd2-4602-9aea-c3f6ce3cce28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606033044 +0000" stop="20260606042105 +0000">
+		<title>MasterChef Australia Season 05 - Second Chance Challenge 2</title>
+		<desc>The contestants must rely on their senses and communication skills to cook the same dish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532251'&amp;EntityType='LinearSchedule'&amp;EntityId='fd6d1957-e635-4c3e-8a4a-4710c1f6a045'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606042105 +0000" stop="20260606051436 +0000">
+		<title>MasterChef Australia Season 05 - Second Chance Challenge 3</title>
+		<desc>The 12 remaining contestants face a three-hour team Pressure Test set by Gelato Messina owner Nick Palumbo.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532195'&amp;EntityType='LinearSchedule'&amp;EntityId='47e8f07b-650b-477b-aa66-59c05d54568d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606051436 +0000" stop="20260606060539 +0000">
+		<title>MasterChef Australia Season 05 - Second Chance Challenge 4</title>
+		<desc>The final challenge of Second Chance Week sees the four teams compete in an Invention Test.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532199'&amp;EntityType='LinearSchedule'&amp;EntityId='c4f2714b-7ec2-40fb-8b15-6793d53b6d5d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606060539 +0000" stop="20260606070031 +0000">
+		<title>MasterChef Australia Season 05 - MasterClass 8</title>
+		<desc>In a seaside masterclass, they make mussels for lifeguards.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532203'&amp;EntityType='LinearSchedule'&amp;EntityId='62a1b45e-bbec-41e3-9433-690c6168914c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606070031 +0000" stop="20260606075004 +0000">
+		<title>MasterChef Australia Season 05 - Love Mystery Box Challenge</title>
+		<desc>11 contestants are tasked with filling an empty Mystery Box with ingredients they love, then swapping boxes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532255'&amp;EntityType='LinearSchedule'&amp;EntityId='c175d912-3939-4415-8e91-06be01e77f98'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606075004 +0000" stop="20260606083932 +0000">
+		<title>MasterChef Australia Season 05 - Pressure Test 3</title>
+		<desc>Noelene joins Neha and Vern in a Pressure Test set by Kirsten Tibbles: the chocolate Lourous Cake.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532207'&amp;EntityType='LinearSchedule'&amp;EntityId='97e0a013-4096-42e5-a017-268792b580a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606083932 +0000" stop="20260606092939 +0000">
+		<title>MasterChef Australia Season 05 - Date Night Team Challenge</title>
+		<desc>The Top 10 contestants face a team challenge: to cook a main course and a dessert for 50 first dates.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532211'&amp;EntityType='LinearSchedule'&amp;EntityId='348eb862-261e-4f99-a8f7-befddd8f0fa8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606092939 +0000" stop="20260606102006 +0000">
+		<title>MasterChef Australia Season 05 - Elimination Challenge 9</title>
+		<desc>The losing team face a breakfast service challenge in Gary Mehigan's restaurant, The Maribyrnong Boathouse.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532259'&amp;EntityType='LinearSchedule'&amp;EntityId='ed1c7dcb-b15a-4308-9884-a80c26924f74'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606102006 +0000" stop="20260606111225 +0000">
+		<title>MasterChef Australia Season 05 - MasterClass 9</title>
+		<desc>In a masterclass, Gary teaches the chefs how to poach an egg and glaze bacon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532263'&amp;EntityType='LinearSchedule'&amp;EntityId='3608ef89-f6d7-4578-bdaf-c680f35f41d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606111225 +0000" stop="20260606120606 +0000">
+		<title>MasterChef Australia Season 05 - Pressure Test 4</title>
+		<desc>Three teams are asked to recreate Heston's classic Royal Jubilee trifle.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532267'&amp;EntityType='LinearSchedule'&amp;EntityId='b3919a6f-6ef5-4d65-8704-0a4d0eddef34'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606120606 +0000" stop="20260606125611 +0000">
+		<title>MasterChef Australia Season 05 - Immunity Challenge 3</title>
+		<desc>The winning team from last night gets a shot at immunity by cooking against legendary Heston Blumenthal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532215'&amp;EntityType='LinearSchedule'&amp;EntityId='b9f4a350-56de-4cbf-b52f-5bab32389dad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606125611 +0000" stop="20260606134944 +0000">
+		<title>MasterChef Australia Season 05 - Offsite Challenge 4</title>
+		<desc>The team challenge is to prepare a Medieval feast which includes a range of poultry and game birds.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532239'&amp;EntityType='LinearSchedule'&amp;EntityId='fc6d0557-8ecf-46b1-be0d-870b77877f6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606134944 +0000" stop="20260606144048 +0000">
+		<title>MasterChef Australia Season 05 - Elimination Challenge 10</title>
+		<desc>The Elimination Challenge requires 4 contestants to 'Hestonise' a dish of their choice.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532219'&amp;EntityType='LinearSchedule'&amp;EntityId='11ebeecf-340f-4f94-927f-f3a81b33f427'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606144048 +0000" stop="20260606153436 +0000">
+		<title>MasterChef Australia Season 05 - Heston: Masterclass</title>
+		<desc>Heston Blumenthal demonstrates how to make some of his favourite dishes in a masterclass.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532223'&amp;EntityType='LinearSchedule'&amp;EntityId='45f36fd7-0812-431d-bf5b-ce9c7e83e6bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260606153436 +0000" stop="20260606163209 +0000">
+		<title>MasterChef Australia Season 05 - Dubai Team Challenge</title>
+		<desc>In world food week, the contestants head to the souks of Dubai and create a banquet to be served to 36 Emirati.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532227'&amp;EntityType='LinearSchedule'&amp;EntityId='81e83c01-ee6a-4ef1-b0ba-c9760ae44b2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605160645 +0000" stop="20260605165833 +0000">
+		<title>Fear Factor USA - EP16</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501579'&amp;EntityType='LinearSchedule'&amp;EntityId='6d0f3c7f-f638-4e85-a027-5104d264636b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605165833 +0000" stop="20260605175519 +0000">
+		<title>Fear Factor USA - EP17</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501559'&amp;EntityType='LinearSchedule'&amp;EntityId='f67eefb9-0b82-4971-9c07-47abe89fe4fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605175519 +0000" stop="20260605191245 +0000">
+		<title>Fear Factor USA - EP18</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501551'&amp;EntityType='LinearSchedule'&amp;EntityId='b46035be-00d7-4b04-961c-990d72a4666f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605191245 +0000" stop="20260605205327 +0000">
+		<title>Fear Factor 2.0 USA - Leeches &amp; Shaved Heads &amp; Tear Gas</title>
+		<desc>In a special 2 hour Fear Factor five teams of 2 are bungeed off a cliff while tied under a helicopter.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501567'&amp;EntityType='LinearSchedule'&amp;EntityId='ed60c1bc-262b-4fba-88bc-4fc29827793a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605205327 +0000" stop="20260605214417 +0000">
+		<title>Fear Factor 2.0 USA - Snake Bite</title>
+		<desc>Four couples compete for a grand prize of $50,000.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501575'&amp;EntityType='LinearSchedule'&amp;EntityId='278ec878-b25a-490d-842f-069957bb4959'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605214417 +0000" stop="20260605223508 +0000">
+		<title>Fear Factor 2.0 USA - Roach Coach</title>
+		<desc>Four teams of two compete for $50,000 as they are locked in a cage and sunk underwater.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501563'&amp;EntityType='LinearSchedule'&amp;EntityId='bd4189cf-5355-4be9-903e-4230ed2b6001'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605223508 +0000" stop="20260605232600 +0000">
+		<title>Fear Factor 2.0 USA - Broken Hearts &amp; Blood Baths</title>
+		<desc>Four teams of exes must deal with 3 stunts and each other.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501555'&amp;EntityType='LinearSchedule'&amp;EntityId='f77fe6f9-b022-448c-9c55-daf04995f425'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260605232600 +0000" stop="20260606001947 +0000">
+		<title>Fear Factor USA - EP1</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532083'&amp;EntityType='LinearSchedule'&amp;EntityId='0d8cec21-56f8-4256-9cbd-7f4afbf1c6bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606001947 +0000" stop="20260606011302 +0000">
+		<title>Fear Factor USA - EP2</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532099'&amp;EntityType='LinearSchedule'&amp;EntityId='35e2bdf3-01bd-4891-ba04-f39d9f5d49fd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606011302 +0000" stop="20260606020615 +0000">
+		<title>Fear Factor USA - EP3</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532135'&amp;EntityType='LinearSchedule'&amp;EntityId='69319ee7-3fb3-47ab-ae02-c59d65c61103'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606020615 +0000" stop="20260606025857 +0000">
+		<title>Fear Factor USA - EP4</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532143'&amp;EntityType='LinearSchedule'&amp;EntityId='d7ba3135-b5e6-4fc6-a8e6-dc565f822ba2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606025857 +0000" stop="20260606035108 +0000">
+		<title>Fear Factor USA - EP5</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532087'&amp;EntityType='LinearSchedule'&amp;EntityId='f7e3ddaf-026b-4bf8-a391-bdae56a14110'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606035108 +0000" stop="20260606044404 +0000">
+		<title>Fear Factor USA - EP6</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532155'&amp;EntityType='LinearSchedule'&amp;EntityId='76e72676-4376-48ba-bceb-330a5fb38e53'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606044404 +0000" stop="20260606053703 +0000">
+		<title>Fear Factor USA - EP7</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532147'&amp;EntityType='LinearSchedule'&amp;EntityId='fb5107bd-0341-4e6d-bec0-4ef2d6732570'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606053703 +0000" stop="20260606063001 +0000">
+		<title>Fear Factor USA - EP8</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532091'&amp;EntityType='LinearSchedule'&amp;EntityId='48f69529-fe72-45fb-b7a4-a6b682e170af'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606063001 +0000" stop="20260606074951 +0000">
+		<title>Fear Factor USA - EP9</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532103'&amp;EntityType='LinearSchedule'&amp;EntityId='5cb8520b-91dd-4d68-99b4-7dc095e8e3d2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606074951 +0000" stop="20260606084243 +0000">
+		<title>Fear Factor USA - EP10</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532107'&amp;EntityType='LinearSchedule'&amp;EntityId='5121b089-f770-4462-b4a0-cdbe09d4ab27'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606084243 +0000" stop="20260606093535 +0000">
+		<title>Fear Factor USA - EP11</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532111'&amp;EntityType='LinearSchedule'&amp;EntityId='4bc2c9b1-c172-4ac7-b290-8564f883788f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606093535 +0000" stop="20260606102828 +0000">
+		<title>Fear Factor USA - EP12</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532115'&amp;EntityType='LinearSchedule'&amp;EntityId='ab0a97ae-1626-4cbd-8228-e9878aae148f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606102828 +0000" stop="20260606112120 +0000">
+		<title>Fear Factor USA - EP13</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532139'&amp;EntityType='LinearSchedule'&amp;EntityId='a0544f2b-b999-46e1-b901-e03aae091a4e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606112120 +0000" stop="20260606121411 +0000">
+		<title>Fear Factor USA - EP14</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532095'&amp;EntityType='LinearSchedule'&amp;EntityId='ce407e2f-bd28-4dff-85d1-f02554efefac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606121411 +0000" stop="20260606130702 +0000">
+		<title>Fear Factor USA - EP15</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532119'&amp;EntityType='LinearSchedule'&amp;EntityId='490f9997-ca61-4eb0-88b1-a9171392c9ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606130702 +0000" stop="20260606135953 +0000">
+		<title>Fear Factor USA - EP16</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532151'&amp;EntityType='LinearSchedule'&amp;EntityId='04815cb9-31ba-4c8a-bf68-0269b2456f65'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606135953 +0000" stop="20260606145245 +0000">
+		<title>Fear Factor USA - EP17</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532123'&amp;EntityType='LinearSchedule'&amp;EntityId='fffe707f-3bc4-4ede-9c03-25361b49484d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606145245 +0000" stop="20260606154536 +0000">
+		<title>Fear Factor USA - EP18</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532127'&amp;EntityType='LinearSchedule'&amp;EntityId='03b17a79-ec1c-45eb-9dfc-ad6b0d572f0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260606154536 +0000" stop="20260606163828 +0000">
+		<title>Fear Factor USA - EP19</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14532131'&amp;EntityType='LinearSchedule'&amp;EntityId='e2435ae7-69a0-4ab7-950d-5ccceb45cbdd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260605165405 +0000" stop="20260605174028 +0000">
+		<title>Deal Or No Deal USA - EP15</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501667'&amp;EntityType='LinearSchedule'&amp;EntityId='753b5e43-55cb-4a62-924f-ff717a583760'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260605174028 +0000" stop="20260605191112 +0000">
+		<title>Deal Or No Deal USA - EP16</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501651'&amp;EntityType='LinearSchedule'&amp;EntityId='a0880f36-7513-4595-bcf4-31281acd519f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260605191112 +0000" stop="20260605195713 +0000">
+		<title>Deal Or No Deal USA - EP17</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501695'&amp;EntityType='LinearSchedule'&amp;EntityId='4d45f557-4bca-476b-9901-c7d36fa73902'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260605195713 +0000" stop="20260605213057 +0000">
+		<title>Deal Or No Deal USA - EP18</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501679'&amp;EntityType='LinearSchedule'&amp;EntityId='b4ecb74e-54e7-43e8-8832-c008ea74c6be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260605213057 +0000" stop="20260605230532 +0000">
+		<title>Deal Or No Deal USA - EP21</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501699'&amp;EntityType='LinearSchedule'&amp;EntityId='7e71ad9f-1f61-4328-a0fb-649c8ed0b928'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260605230532 +0000" stop="20260606004630 +0000">
+		<title>Deal Or No Deal USA Season 01 (Syndicated Version) - EP39</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501663'&amp;EntityType='LinearSchedule'&amp;EntityId='de199047-aec5-4b25-ade4-da1fff03ca28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606004630 +0000" stop="20260606025251 +0000">
+		<title>Deal Or No Deal USA Season 01 (Syndicated Version) - EP32</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501675'&amp;EntityType='LinearSchedule'&amp;EntityId='5ae48987-02ea-41ed-a283-001b0c171cb5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606025251 +0000" stop="20260606034059 +0000">
+		<title>Deal Or No Deal USA - EP16</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (16 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501655'&amp;EntityType='LinearSchedule'&amp;EntityId='aacc3ef7-869f-4243-b634-f68b8c371df8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606034059 +0000" stop="20260606043032 +0000">
+		<title>Deal Or No Deal USA - EP17</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (17 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501687'&amp;EntityType='LinearSchedule'&amp;EntityId='f0fbfab9-ea5a-474a-bbf7-3af96a7dfb02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606043032 +0000" stop="20260606052041 +0000">
+		<title>Deal Or No Deal USA - EP18</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (18 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501671'&amp;EntityType='LinearSchedule'&amp;EntityId='0e00ec90-5a45-4437-8710-84414bca05a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606052041 +0000" stop="20260606060839 +0000">
+		<title>Deal Or No Deal USA - EP22</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501683'&amp;EntityType='LinearSchedule'&amp;EntityId='0cfab96c-31a8-403a-8073-ab3b963b9291'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606060839 +0000" stop="20260606070000 +0000">
+		<title>Deal Or No Deal USA - EP26</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14501691'&amp;EntityType='LinearSchedule'&amp;EntityId='440ec6c4-f1bd-4d24-b03e-340e793200f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606070000 +0000" stop="20260606071703 +0000">
+		<title>Deal Or No Deal USA - EP28</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516146'&amp;EntityType='LinearSchedule'&amp;EntityId='8e02cf20-ccb5-46f6-9f95-42fbf71c6e5f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606071703 +0000" stop="20260606080818 +0000">
+		<title>Deal Or No Deal USA - EP1</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516190'&amp;EntityType='LinearSchedule'&amp;EntityId='fa3978a9-9bd5-437d-ac1b-ea0d1cb72242'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606080818 +0000" stop="20260606085837 +0000">
+		<title>Deal Or No Deal USA - EP2</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516170'&amp;EntityType='LinearSchedule'&amp;EntityId='8dad7b28-7799-459c-9576-f0e4bb9c2014'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606085837 +0000" stop="20260606094653 +0000">
+		<title>Deal Or No Deal USA - EP3</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516174'&amp;EntityType='LinearSchedule'&amp;EntityId='b19ffd5a-bae9-444d-bc5b-371b5fbf25b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606094653 +0000" stop="20260606103706 +0000">
+		<title>Deal Or No Deal USA - EP4</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516162'&amp;EntityType='LinearSchedule'&amp;EntityId='9153615a-548c-4008-bfac-18187535e644'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606103706 +0000" stop="20260606112519 +0000">
+		<title>Deal Or No Deal USA - EP5</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516166'&amp;EntityType='LinearSchedule'&amp;EntityId='04a77a41-4617-4e11-a267-f7943844f7ab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606112519 +0000" stop="20260606121425 +0000">
+		<title>Deal Or No Deal USA - EP11</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (11 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516150'&amp;EntityType='LinearSchedule'&amp;EntityId='c1131d2f-ce9b-40dd-88d7-da6d4883e68e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606121425 +0000" stop="20260606130220 +0000">
+		<title>Deal Or No Deal USA - EP12</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (12 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516182'&amp;EntityType='LinearSchedule'&amp;EntityId='2e7d02b6-9fb1-4323-8a0d-080d4ffe194c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606130220 +0000" stop="20260606135028 +0000">
+		<title>Deal Or No Deal USA - EP16</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (16 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516178'&amp;EntityType='LinearSchedule'&amp;EntityId='3aa616bd-ddd0-4c03-a39d-f49b5b05b8a6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606135028 +0000" stop="20260606144001 +0000">
+		<title>Deal Or No Deal USA - EP17</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (17 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516154'&amp;EntityType='LinearSchedule'&amp;EntityId='959cf980-f9b3-4b82-8b27-ca2e9ec62979'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606144001 +0000" stop="20260606153009 +0000">
+		<title>Deal Or No Deal USA - EP18</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (18 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516158'&amp;EntityType='LinearSchedule'&amp;EntityId='d335c42d-b289-4236-a5b4-eb981e65bf9d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260606153009 +0000" stop="20260606161739 +0000">
+		<title>Deal Or No Deal USA - EP19</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (19 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14516186'&amp;EntityType='LinearSchedule'&amp;EntityId='60f14e2d-7350-404b-8ba9-da7f4873554f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
